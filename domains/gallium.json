@@ -14,7 +14,7 @@
             "mx3.larksuite.com"
         ],
         "TXT": [
-            "lark-domain-verification=verification-code-site-App_lark=Q0VjeFSDkR6Vgs9Y4EDT",
+            "verification-code-site-App_lark=Q0VjeFSDkR6Vgs9Y4EDT",
             "v=spf1 +include:spf.onlarksuite.com -all"
         ]
     }
